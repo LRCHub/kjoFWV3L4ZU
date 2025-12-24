@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "きよしのズンドコ節",
+  "base_artist": "氷川きよし",
+  "createdAt": "2025-12-24T05:43:43.045897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きよしのズンドコ節",
+      "artist": "Kiyoshi Hikawa",
+      "has_synced": true,
+      "path": "select/01_きよしのズンドコ節_Kiyoshi_Hikawa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きよしのズンドコ節 - Kiyoshi No Zundoko-Bushi",
+      "artist": "Kiyoshi Hikawa",
+      "has_synced": true,
+      "path": "select/02_きよしのズンドコ節_-_Kiyoshi_No_Zundoko-Bushi_Kiyoshi_Hikawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きよしのズンドコ節",
+      "artist": "氷川 きよし",
+      "has_synced": false,
+      "path": "select/pl_01_きよしのズンドコ節_氷川_きよし.txt"
+    }
+  ]
+}
